@@ -10,7 +10,7 @@ _{This is the landing page for my web programming portfolio. It includes a list 
 
 ## Known Bugs
 
-_{There are no known bugs. }_
+_{There are no known bugs.}_
 
 ## Support and contact details
 
