@@ -4,11 +4,12 @@ h1, h3 {
 p {
   font-family: sans-serif;
 }
-
 ul {
   font-size: 20px;
   line-height: 30px;
 }
-p.intro {
-  font-style: italic;
+.my-class {
+  margin: 12px;
+  border: 2px solid blue;
+  padding: 4px;
 }
