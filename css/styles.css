@@ -1,4 +1,4 @@
-h1, h3 {
+h1, h3, h4 {
   color: blue;
 }
 p {
@@ -7,6 +7,9 @@ p {
 ul {
   font-size: 20px;
   line-height: 30px;
+}
+img.main {
+  float: left;
 }
 .my-class {
   margin: 12px;
