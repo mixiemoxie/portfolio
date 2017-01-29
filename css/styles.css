@@ -1,0 +1,14 @@
+h1, h3 {
+  color: blue;
+}
+p {
+  font-family: sans-serif;
+}
+
+ul {
+  font-size: 20px;
+  line-height: 30px;
+}
+p.intro {
+  font-style: italic;
+}
